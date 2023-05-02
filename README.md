@@ -10,7 +10,7 @@ Antes de eso trabajé como desarrollador de software en C# y como team lead en C
 Me sigue gustando programar uy aprender nuevas cositas para no estar desconectado del mundo de la programacion.
 
 🥰  Me gusta...
-- :soccer:  Jugarr al futbol
+- :soccer:  Jugar al futbol
 - ✈️  Viajar
 - :cinema: Ir al cine
 - :fork_and_knife: Cocinar
